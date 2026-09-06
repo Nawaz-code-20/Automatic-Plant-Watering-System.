@@ -31,6 +31,10 @@ The soil moisture sensor measures the moisture level of the soil. When the soil 
 - Small farms
 - Smart irrigation systems
 
+## Project Photo
+
+![Circuit Setup](Circuit%20setup.jpg)
+
 ## Project Goal
 
 The goal of this project is to create a simple and automatic irrigation system that provides water to plants when the soil becomes dry.
